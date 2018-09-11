@@ -1,0 +1,14 @@
+{
+    "name": "lenghua/hl2",
+    "description": "test hello world .",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "wangzhenghua",
+            "email": "434335783@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
