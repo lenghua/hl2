@@ -6,7 +6,7 @@
  * Time: 下午2:20
  */
 
-namespace AB\Hello;
+namespace Lenghua\Hl2\Hello;
 
 
 class SayHello
