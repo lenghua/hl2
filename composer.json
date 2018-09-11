@@ -9,6 +9,11 @@
             "email": "434335783@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "lenghua\\hl2\\": ""
+        }
+    },
     "minimum-stability": "dev",
     "require": {},
     "repositories": {
